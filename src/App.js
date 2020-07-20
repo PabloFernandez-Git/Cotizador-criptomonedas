@@ -50,7 +50,7 @@ function App() {
         <Heading>Cotiza criptomonedas al instante</Heading>
 
         <Formulario 
-          
+
         />
       </div>
     </Contenedor>
